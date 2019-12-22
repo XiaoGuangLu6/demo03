@@ -1,0 +1,17 @@
+server:
+  port: 8089
+spring:
+  # 数据源
+  datasource:
+    url: jdbc:mysql://localhost:3306/springboot?characaterEncoding=UTF8
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+  # jpa配置
+  jpa:
+    show-sql: true # 控制台打印sql
+    generate-ddl: true
+  mvc:
+    view:
+      prefix:
+      suffix: .jsp
