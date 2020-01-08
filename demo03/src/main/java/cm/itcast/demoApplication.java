@@ -8,6 +8,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @EnableAutoConfiguration
 public class demoApplication {
     public static void main(String[] args) {
+		
+		
+		
+		//启动项目
         SpringApplication.run(demoApplication.class,args);
     }
 }
