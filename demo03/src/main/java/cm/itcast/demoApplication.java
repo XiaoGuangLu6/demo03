@@ -11,7 +11,7 @@ public class demoApplication {
 		
 		
 		
-		//
+		//手动需改
         SpringApplication.run(demoApplication.class,args);
     }
 }
