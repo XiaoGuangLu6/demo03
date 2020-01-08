@@ -11,6 +11,7 @@ public class demoApplication {
 		
 		
 		
+         //启动项目
 		//手动需改
         SpringApplication.run(demoApplication.class,args);
     }
