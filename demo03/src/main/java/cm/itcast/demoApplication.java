@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class demoApplication {
 
     public static void main(String[] args) {
+        //分支注释
         SpringApplication.run(demoApplication.class,args);
     }
 }
