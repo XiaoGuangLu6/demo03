@@ -10,7 +10,7 @@ public class demoApplication {
     public static void main(String[] args) {
 		
 		
-        //分支创建
+        //分支创建电饭锅光伏发电
         SpringApplication.run(demoApplication.class,args);
     }
 }
