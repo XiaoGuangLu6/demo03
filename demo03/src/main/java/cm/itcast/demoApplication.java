@@ -8,8 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @EnableAutoConfiguration
 public class demoApplication {
 
-
-    //创建新分支
     public static void main(String[] args) {
         SpringApplication.run(demoApplication.class,args);
     }
